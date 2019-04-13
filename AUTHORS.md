@@ -5,7 +5,7 @@ The following people have made contributions to this project:
 <!--- Use your GitHub account or any other personal reference URL --->
 <!--- See https://gist.github.com/djhoese/52220272ec73b12eb8f4a29709be110d for auto-generating parts of this list --->
 
-- [Trygve Aspenes (TAlonglong)](https://github.com/TAlonglong)
+c - [Trygve Aspenes (TAlonglong)](https://github.com/TAlonglong)
 - [ColinDuff (ColinDuff)](https://github.com/ColinDuff)
 - [Radar, Satellite and Nowcasting Division (meteoswiss-mdr)](https://github.com/meteoswiss-mdr)
 - [Adam Dybbroe (adybbroe)](https://github.com/adybbroe)
